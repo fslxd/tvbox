@@ -45,7 +45,6 @@ CCTV-8 电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/i
 CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8?$0.424
 CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8?$0.401
 
-
 CCTV-1 综合,http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1 综合,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1 综合,http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
@@ -108,6 +107,7 @@ CCTV-12 社会与法,http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u
 CCTV-14 少儿,http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
 CCTV-17 农业农村,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+
 📡卫视,#genre#
 东方卫视,http://39.134.66.110/PLTV/88888888/224/3221225672/index.m3u8
 浙江卫视,http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/1.m3u8
