@@ -1,5 +1,5 @@
 {
-    "spider": "./饭太硬/spider.jar",
+    "spider": "https://weixine.net/YSC.jar",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
 {"key":"小猫咪","name":"小猫咪(聚)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"http://xiaomaomi.cc/player/?url=","searchable":1,"quickSearch":1},      
