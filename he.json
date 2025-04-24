@@ -30,72 +30,13 @@
     ],
    
     "sites": [
-          {
-            "key": "索尼资源",
-            "name": "🐅小脑斧┃索尼",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                 "纪录片",
-                "伦理片",
-                "演唱会"
-            ],
-            "searchable": 1,
-            "quickSearch": 1
-        },
- 
-        {
-            "key": "YiSo",
-            "name": "🐅小脑斧┃易搜",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "PanSou",
-            "name": "🐅小脑斧┃盘搜",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "UpYun",
-            "name": "🐅小脑斧┃Up搜",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
-        },
- 
-        {
-            "key": "ext_live_protocol",
-            "name": "🐅【关注：环宇轩网络】🐅",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "cc",
-            "name": "请勿相信任何广告",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0
-        }
+{"key":"索尼资源","name":"🐅小脑斧┃索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","纪录片","伦理片","演唱会"],"searchable":1,"quickSearch":1},
+{"key":"YiSo","name":"🐅小脑斧┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"},
+{"key":"PanSou","name":"🐅小脑斧┃盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"},
+{"key":"UpYun","name":"🐅小脑斧┃Up搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"},
+
+{"key":"cc","name":"请勿相信任何广告","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0}
+   
     ],
 
 "parses": [
