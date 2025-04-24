@@ -1,5 +1,3 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
-
 {
     "spider": "./饭太硬/spider.jar",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
@@ -112,7 +110,6 @@
 {"key":"csp_biubiu_大师兄影视","name":"🥒大师兄影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/大师兄影视.json"},
 {"key":"csp_biubiu_GAOAA","name":"🥒GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/GAOAA.json"},
 {"key":"csp_biubiu_139影视","name":"🥒139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/139影视.json"},
-//
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://fj365.ml/6/duboku.json"},
 {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"csp_xpath_huya","name":"虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://fj365.ml/6/huya2.json"},
@@ -226,7 +223,6 @@
 {"key":"csp_appys_MX影视","name":"MX影视(萝卜)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 {"key":"csp_appysv2_69美剧","name":"69美剧(萝卜)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.69mj.com/api.php/v1.vod"},
 {"key":"csp_appysv2_1080KK","name":"1080KK(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://123.250idc.com/mogai_api.php/v1.vod"},
-//
 {"key":"csp_appys_影视阁","name":"影视阁(神马)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://216.98.10.85/api.php/iptv/vod/"},
 {"key":"csp_appysv2_小熊猫TV","name":"小熊猫TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv2.hetaoys.vip/api.php/iptv/vod/"},
 {"key":"csp_appysv2_小南TV","name":"小南TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://n293.ngys.xyz/mv/api.php/Chengcheng/vod/"},
