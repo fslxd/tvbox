@@ -2,22 +2,19 @@
     "spider": "https://weixine.net/YSC.jar",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
-    
 
 {"name":"👒酷云七七〔SP〕","key":"csp_Kunyu77","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"💘360〔SP〕","key":"csp_SP360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"💢小猫咪〔JSON〕","key":"csp_xml_小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},	    
-{"key":"小猫咪","name":"小猫咪(聚)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"http://xiaomaomi.cc/player/?url=","searchable":1,"quickSearch":1},      
+{"name":"💢小猫咪〔JSON〕","key":"csp_xml_小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
+{"key":"小猫咪","name":"小猫咪(聚)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"http://xiaomaomi.cc/player/?url=","searchable":1,"quickSearch":1},
 {"key":"量子资源","name":"量子资源(切)","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"飘零影院","name":"飘零影院(聚)","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},        
+{"key":"飘零影院","name":"飘零影院(聚)","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"卧龙资源","name":"卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"索尼资源","name":"🐅小脑斧┃索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","纪录片","伦理","港台三级","韩国伦理","西方伦理","日本伦理","两性课堂","邵氏电影","两性课堂","演唱会"],"searchable":1,"quickSearch":1},
 
  {"key":"Bili","name":"🅱哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597}},
  {"key":"Biliych","name":"🅱哔哔┃歌曲","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597}},
-    
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
         {
             "key": "cc",
             "name": "请勿相信视频中任何广告",
@@ -30,7 +27,7 @@
     ],
     "parses": [
   {"name":"聚合0","type":3,"url":"Web"},
-{"name":"聚合1","type":3,"url":"Demo"}
+{"name":"聚合1","type":3,"url":"Demo"},
 
 {"name":"LT","type":1,"url":"https://jx.zui.cm/?url="},
 {"name":"网络","type":1,"url":"http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="},
