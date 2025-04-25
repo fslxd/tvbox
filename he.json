@@ -42,41 +42,9 @@
 "parses": [
 {"name":"🐅小脑斧m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}},
 {"name":"🐅小脑斧影探","type":0,"url":"https://jx.xmflv.com/?url="},
-{"name":"🐅小脑斧7777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
- {
-      "name": "🐅小脑斧|小种",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url=",
-      "flag": [
-        "qq",
-        "腾讯",
-        "qiyi",
-        "爱奇艺",
-        "奇艺",
-        "youku",
-        "优",
-        "mgtv",
-        "芒果",
-        "letv",
-        "leshi",
-        "LS",
-        "乐视",
-        "pptv",
-        "PPTV",
-        "sohu",
-        "bilibili",
-        "哔哩哔哩",
-        "哔哩"
-      ]
-    }, 
-{"name":"🐅小脑斧闲鱼","type":0,"url":"https://jx.xyflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","
-芒果"]}},
- {
-      "name": "🐅小脑斧战狼",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
-    },	   
-{"name":"小脑斧夜幕","type":0,"url":"https://www.yemu.xyz/?url="}],
+{"name":"🐅小脑斧闲鱼","type":0,"url":"https://jx.xyflv.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","yk","优酷","mgtv","imgo","芒果"]}},
+{"name":"小脑斧夜幕","type":0,"url":"https://www.yemu.xyz/?url="}
+],
 
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
